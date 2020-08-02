@@ -203,7 +203,7 @@ class _GroupedStoriesViewState extends State<GroupedStoriesView> {
           ),
         ),
         floatingActionButton: Align(
-          alignment: Alignment(1.0, -0.7),
+          alignment: Alignment(1.0, -0.75),
           child: Padding(
             padding: const EdgeInsets.all(0.0),
             child: FloatingActionButton(
